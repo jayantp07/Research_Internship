@@ -2,6 +2,9 @@
 
 Thanks to Professor Yuji Iwahori and Hiroyasu Usami for their constant help and support.
 
+This repository contains codes in Python3 developed by author for the abovementioned topic.
+
+
 Note :
 
 a) To obtain weights of trained U-Net with test Dice Coefficient of 0.60 for LNs candidate generation as stated in algorithm.
