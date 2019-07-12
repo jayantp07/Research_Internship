@@ -8,6 +8,8 @@ Our best model achieves a recall of 0.83 (+/- 0.05) at about 1-2 False Positives
 
 We also provide exhaustive analysis of CNN, 3D-CNN, CNN-SVM, 3D-CNN-SVM, CNN-TTA (Test Time Augmentation) and CNN-TTA-SVM on LN detection task.
 
+Visuals on different Data Augmentation techniques are also provided.
+
 
 Note :
 
