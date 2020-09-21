@@ -2,7 +2,7 @@
 
 Thanks to Professor Yuji Iwahori and Hiroyasu Usami for their constant help and support.
 
-This repository contains codes in Python3 developed by author for the above mentioned topic.
+This repository contains codes in Python3 developed by Jayant for the above mentioned topic.
 
 Our best model achieves a recall of 0.83 (+/- 0.05) at about 1-2 False Positives per CT Volume on an average with ROC of 0.93 (+/- 0.01) which is a drastic improvement on current State-of-the-Art with a recall of 0.70 at 3 False Positives per CT volume with ROC of 0.90. ROC curves are provided in the repository for quick reference. 
 
